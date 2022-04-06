@@ -1,6 +1,8 @@
 # Epias
  30.04.2021 tarihine ait Gerçek Zamanlı  Üretim ve Gerçek Zamanlı Tüketim Toplam(MWh) verilerinin saatlik olarak farkını hesaplayıp konsol  ekranına verilerin yazdırılması 
  Selenium Kullanılmıştır
+
+
 Calculating the hourly difference of Real Time Production and Real Time Consumption Total (MWh) data of 30.04.2021 and printing the data on the console screen
 via Selenium
 
